@@ -1,0 +1,114 @@
+{
+  "id": "2124094",
+  "name": "taobao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6216006",
+      "name": "收 藏",
+      "font_class": "star-opp",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10416944",
+      "name": "收 藏 (1)",
+      "font_class": "shoucang2",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14109734",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "2696093",
+      "name": "订单列表_s",
+      "font_class": "dingdanliebiao_s",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "13362398",
+      "name": "订单列表",
+      "font_class": "dingdanliebiao",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "4682691",
+      "name": "订单列表-订单详情",
+      "font_class": "dingdanliebiao-dingdanxiangqing",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "6217531",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10170962",
+      "name": "更多列表-订单",
+      "font_class": "gengduoliebiao-dingdan",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "10603427",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "12801584",
+      "name": "首页-选中",
+      "font_class": "shouye-yes",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12885646",
+      "name": "更多",
+      "font_class": "gengduo1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13636422",
+      "name": "购物车",
+      "font_class": "qicheqianlian-select",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14078617",
+      "name": "我 的",
+      "font_class": "me",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "14428408",
+      "name": "home",
+      "font_class": "home-o",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "14601010",
+      "name": "我 的 (1)",
+      "font_class": "Icon_wodeB",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
