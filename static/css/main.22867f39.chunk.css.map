@@ -1,1 +1,0 @@
-{"version":3,"sources":["User.css"],"names":[],"mappings":"AAAA,EACI,QAAe,CACf,SACJ,CAEA,iBACI,wBAEJ","file":"main.22867f39.chunk.css","sourcesContent":["*{\r\n    margin: 0px 0px;\r\n    padding: 0px 0px;\r\n}\r\n\r\n.user_left:hover{\r\n    background-color: \t#E0EEE0;\r\n\r\n}"]}
